@@ -39,6 +39,9 @@ Dataset: Hotel Booking Demand Dataset
 - Records: 119,390
 - Features: 31
 
+Dataset:
+https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+
 The dataset contains booking information for both Resort Hotels and City Hotels from July 2015 to August 2017.
 
 ---
